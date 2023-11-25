@@ -1,2 +1,2 @@
-# cardano-stakepool
-Cardano stake pool
+# Cardano Stars stakepool
+Cardano Stars
